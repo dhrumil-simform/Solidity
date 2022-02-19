@@ -29,3 +29,4 @@ contract Bank{
         accounts[msg.sender] -= amt;
     }
 }
+
